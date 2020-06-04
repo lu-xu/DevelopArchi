@@ -1,0 +1,5 @@
+rootProject.name='MyArchi'
+include ':app'
+include ':user'
+include ':base'
+include ':pay'
